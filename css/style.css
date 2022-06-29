@@ -1,0 +1,18 @@
+img{
+    height: 350px;
+    border: ;
+    width: 650px;
+}
+.mainbox1{
+    background-color: black;
+    ;
+}
+.mainbox1 .owl-nav button{
+    color:white !important;
+}
+.mainbox2{
+    background-color: black;
+}
+.mainbox2 .owl-nav button{
+    color:white !important;
+}
